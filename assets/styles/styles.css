@@ -43,6 +43,7 @@ body {
 .card_front {
     transform: rotatey(180deg);
     background-color: #101c2c;
+    
 }
 
 .card_back {
@@ -50,6 +51,7 @@ body {
     background-color: #05c3ff;
     font-size: 40px;
     /* display: none; */
+    cursor: pointer;
 
 }
 
@@ -76,6 +78,7 @@ body {
     border: none;
     border-radius: 10px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 
